@@ -1,6 +1,6 @@
 # Flappy-bird-with NEAT
 This was a fun project for me.
-Here we creat an AI which plays the game Flappy Bird.
+Here we create an AI which plays the game Flappy Bird.
 
 # Description
 We firstly create the game with Pygame and then use the NEAT module to make the AI.
